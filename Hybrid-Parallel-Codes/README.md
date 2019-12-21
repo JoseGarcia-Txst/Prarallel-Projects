@@ -1,2 +1,5 @@
-# Hybrid Code Using CUDA, OPEN MP, and MPI
+# Hybrid Code 
+## - CUDA
+## - Open MP
+## - MPI
 
